@@ -9,7 +9,7 @@ require (
 	github.com/itchyny/gojq v0.12.12
 	github.com/onsi/ginkgo/v2 v2.9.2
 	github.com/onsi/gomega v1.27.6
-	github.com/prometheus/client_golang v1.15.0
+	github.com/prometheus/client_golang v1.15.1
 	github.com/sirupsen/logrus v1.9.0
 	github.com/slack-go/slack v0.12.2
 	k8s.io/api v0.26.3
